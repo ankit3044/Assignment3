@@ -20,3 +20,5 @@ o   Sine of the number (in radians)
 3.   Displays the calculated results.
 
 
+How to Run
+python task1.py python task2.py
